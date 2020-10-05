@@ -1,4 +1,4 @@
-### Hello👋 My name is yeseul and I lived in South Korea.<br/>
+### Hello👋 My name is yeseul  
 📌 풀스택 개발자가 되고 싶은 주니어 개발자 이예슬입니다! 😎
 
 
