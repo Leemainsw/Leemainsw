@@ -1,5 +1,5 @@
 ### Hello👋 My name is yeseul  
-📌 풀스택 개발자가 되고 싶은 주니어 개발자 이예슬입니다! 😎
+📌 풀스택 개발자가 되고 싶은 주니어 개발자 이예슬입니다!
 
 
 [![Github](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://alstn2468.github.io/)](https://github.com/Leemainsw) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alstn2468)](https://www.facebook.com/profile.php?id=100012066763447) [![Velog Badge](https://img.shields.io/badge/velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@zopall0000)](https://velog.io/@zopall0000)
