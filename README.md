@@ -1,5 +1,5 @@
 ### Hello👋 My name is yeseul  
-📌 현실에 안주하지 않고 발전하는 개발자, <strong>이예슬</strong>입니다! :)
+📌 현실에 안주하지 않고 발전하는 개발자, <strong>이예슬</strong>입니다! :) ☺️
 
 [![Github](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://github.com/Leemainsw)](https://github.com/Leemainsw)
 [![Velog Badge](https://img.shields.io/badge/velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@zopall0000)](https://velog.io/@zopall0000)
