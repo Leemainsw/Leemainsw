@@ -7,7 +7,7 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeemainsw)](https://hits.seeyoufarm.com)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leemainsw&bg_color=F5F5F5&color=6A67CE&line=947EC3&point=B689C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leemainsw&bg_color=F5F5F5&color=6A67CE&line=947EC3&point=B689C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!-- <a href="https://opgc.me/#/users/Leemainsw" target="_blank"><img src="https://api.opgc.me/githubs/users/Leemainsw/tag/?theme=basic" /></a> -->
